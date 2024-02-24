@@ -1,0 +1,148 @@
+{
+  "Manager": [
+    {
+      "id": "1",
+      "name": "Harish",
+      "email": "Hari@gmail.com",
+      "password": "12345",
+      "phone": "1234567890",
+      "profile": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRwj-J9aCNvOCfKS7IXtlbnqMWnYgbsrdyq_0a0h9kFOgdBpkqR5QdWaYM3A1nzOrRz11fLg"
+    },
+    {
+      "id": "2",
+      "name": "Goku",
+      "email": "GokuAgmail.com",
+      "password": "1234",
+      "phone": "0987654321",
+      "profile": "https://dragonball.guru/wp-content/uploads/2021/03/goku-profile-e1616173641804-400x400.png"
+    },
+    {
+      "id": "6d96",
+      "name": "Goku1",
+      "email": "GokuAgmail.com",
+      "password": "123223",
+      "phone": "0987654321",
+      "profile": "https://dragonball.guru/wp-content/uploads/2021/03/goku-profile-e1616173641804-400x400.png"
+    },
+    {
+      "id": "2042",
+      "name": "Admin1",
+      "email": "ad@gmail.com",
+      "password": "1232",
+      "phone": "1234567890",
+      "profile": "dskdjsj"
+    }
+  ],
+  "Products": [
+    {
+      "id": "ca78",
+      "category": "Veg",
+      "name": "Biriyani",
+      "price": "100",
+      "restaurant": "Meghana",
+      "Ratings": "5",
+      "Description": "Spicy Grilled Biriyani with Juicy Tender Panner With Grilled Schezwan Sauce",
+      "Quantity": "5",
+      "thumbnailUrl": "https://b.zmtcdn.com/data/pictures/1/50691/048f8e102d94587aa875920af2ab1dfd.jpg?fit=around|300:273&crop=300:273;*,*"
+    },
+    {
+      "id": "ab23",
+      "category": "Non - Veg",
+      "name": "Noodles",
+      "price": "200",
+      "restaurant": "New Shanthi Sagar",
+      "Ratings": "1",
+      "Description": "Burmese Delicacy with assorted seasonal vegetables poured on top ",
+      "Quantity": "10",
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jsiwcef2nzmz4lf9ex9q"
+    },
+    {
+      "id": "913a",
+      "category": "Non - Veg",
+      "name": "Chicken Chowmein",
+      "price": "200",
+      "restaurant": "New Shanthi Sagar",
+      "Ratings": "1",
+      "Description": "Delectable stands of soft noodles tossed with veggies, tender chicken",
+      "Quantity": "10",
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/68752a3986cb3b6522c84b63640c50ea"
+    },
+    {
+      "id": "5127",
+      "category": "Non - Veg",
+      "name": "Chicken American Chopsuey",
+      "price": "200",
+      "restaurant": "New Shanthi Sagar",
+      "Ratings": "5",
+      "Description": "Delectable stands of soft noodles tossed with veggies , perfect entre t",
+      "Quantity": "10",
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/18a7b05fbf458f9d07c684544b680436"
+    },
+    {
+      "id": "2353",
+      "category": "Veg",
+      "name": "Masala Dosa",
+      "price": "200",
+      "restaurant": "Vidyarthi Bhavan",
+      "Ratings": "5",
+      "Description": "specail made in  place",
+      "Quantity": "10",
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/om9yz2vygdwjhesjor0i"
+    },
+    {
+      "id": "b47a",
+      "category": "Veg",
+      "name": "Idly ",
+      "price": "50",
+      "restaurant": "Vidyarthi Bhavan",
+      "Ratings": "5",
+      "Description": "Rice Item from Special ",
+      "Quantity": "40",
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f0b887163ec7ccc9cd2c7c1a7c4c251e"
+    },
+    {
+      "id": "fe12",
+      "category": "Veg",
+      "name": "Kesari Bath",
+      "price": "40",
+      "restaurant": "Vidyarthi Bhavan",
+      "Ratings": "5",
+      "Description": "Rice Item from Special ",
+      "Quantity": "100",
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b545bab27c8a152494a8494bfbf1f7b1"
+    },
+    {
+      "id": "dbb1",
+      "category": "Non - Veg",
+      "name": "Mutton Biryani",
+      "price": "400",
+      "restaurant": "Ranganna Military Hotel",
+      "Ratings": "5",
+      "Description": "|Serve 1, 4 Pcs | | Medium Spicy | Juicy Mutton Biryani, seasoned to perfection, served on a bed of hot flavorful rice | Served with Bone | | Served wuth Curry and Raita |",
+      "Quantity": "10",
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,e_grayscale,c_fit/cemq5pd74zdtq9eyqm6t"
+    },
+    {
+      "id": "a5a4",
+      "category": "Non - Veg",
+      "name": "Chicken Fry",
+      "price": "100",
+      "restaurant": "Ranganna Military Hotel",
+      "Ratings": "5",
+      "Description": "Medium Spicy | | 5 Pcs | | Medium Spicy | Tender Chicken Chunks roasted to utmost perfection in a special blend of indian spices| Served with Bone |",
+      "Quantity": "10",
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,e_grayscale,c_fit/j87qv1uedr905wijsjyj"
+    },
+    {
+      "id": "d6c5",
+      "category": "Sea Food",
+      "name": "Bangda Fish Fry",
+      "price": "1000",
+      "restaurant": "Ranganna Military Hotel",
+      "Ratings": "2",
+      "Description": "Mutton simmered in a base of onions",
+      "Quantity": "10",
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,e_grayscale,c_fit/tzuiu2nmesdc4wtln3wr"
+    }
+  ]
+}
