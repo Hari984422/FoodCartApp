@@ -46,15 +46,15 @@
       "thumbnailUrl": "https://b.zmtcdn.com/data/pictures/1/50691/048f8e102d94587aa875920af2ab1dfd.jpg?fit=around|300:273&crop=300:273;*,*"
     },
     {
-      "id": "ab23",
       "category": "Non - Veg",
-      "name": "Noodles",
+      "name": "NoodlE",
       "price": "200",
       "restaurant": "New Shanthi Sagar",
       "Ratings": "1",
       "Description": "Burmese Delicacy with assorted seasonal vegetables poured on top ",
       "Quantity": "10",
-      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jsiwcef2nzmz4lf9ex9q"
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jsiwcef2nzmz4lf9ex9q",
+      "id": "ab23"
     },
     {
       "id": "913a",
@@ -112,15 +112,15 @@
       "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b545bab27c8a152494a8494bfbf1f7b1"
     },
     {
-      "id": "dbb1",
       "category": "Non - Veg",
       "name": "Mutton Biryani",
-      "price": "400",
+      "price": "1000",
       "restaurant": "Ranganna Military Hotel",
       "Ratings": "5",
       "Description": "|Serve 1, 4 Pcs | | Medium Spicy | Juicy Mutton Biryani, seasoned to perfection, served on a bed of hot flavorful rice | Served with Bone | | Served wuth Curry and Raita |",
       "Quantity": "10",
-      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,e_grayscale,c_fit/cemq5pd74zdtq9eyqm6t"
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,e_grayscale,c_fit/cemq5pd74zdtq9eyqm6t",
+      "id": "dbb1"
     },
     {
       "id": "a5a4",
@@ -134,15 +134,15 @@
       "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,e_grayscale,c_fit/j87qv1uedr905wijsjyj"
     },
     {
-      "id": "d6c5",
       "category": "Sea Food",
-      "name": "Bangda Fish Fry",
+      "name": "Bangda ",
       "price": "1000",
       "restaurant": "Ranganna Military Hotel",
       "Ratings": "2",
       "Description": "Mutton simmered in a base of onions",
-      "Quantity": "10",
-      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,e_grayscale,c_fit/tzuiu2nmesdc4wtln3wr"
+      "Quantity": "100",
+      "thumbnailUrl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,e_grayscale,c_fit/tzuiu2nmesdc4wtln3wr",
+      "id": "d6c5"
     }
   ]
 }

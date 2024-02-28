@@ -1,33 +1,96 @@
-.displayproducts{
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kdam+Thmor+Pro&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0px;
+}
+.displayproducts {
+    padding: 0px 5px 0px 0px;
     height: 300px;
     width: 300px;
-    border: 2px solid black;
     margin: 20px 0px;
+    box-shadow: 0px 0px 10px gray;
+    border-radius:  20px;
 }
-.displayproducts img{
-    height: 150px;
+.details{
+    position: relative;
+    top: -30px;
+    padding: 0px 10px;
+}
+.image{
+    height: 160px;
     width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
-.adminviewpage{
+#category {
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top: -7rem;
+    left: 12rem;
+    padding: 0px 10px;
+    background-color: red;
+}
+
+.displayproducts h4 {
+    font-size: 14px;
+    color: gray;
+    
+
+}
+
+.displayproducts h5 {
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-optical-sizing: auto;
+    font-family: "Dancing Script", cursive;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.opt{
+    display: flex;
+    justify-content: space-between;
+}
+.displayproducts img {
+    height: 150px;
+    width: 290px;
+    border-radius: 10px;
+}
+
+.adminviewpage {
     justify-content: space-around;
     align-items: center;
-    display:grid;
-    grid-template-columns: 300px 300px 300px  ;
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
 }
-.restaurant{
+
+.restaurant {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0px 5px;
 }
+
 .restaurant b{
-    background-color:blueviolet;
-    height: 24px;
+    background-color: blueviolet;
+    height: 18px;
     text-align: center;
     border-radius: 10px;
     width: 50px;
+    font-size: 10px;
     color: white;
 }
-#star{
-    height: 20px;
+
+#star {
+    height: 16px;
+}
+#price{
+    font-size: 10px;
+    text-decoration: line-through;
+    font-weight: bold;
+    color: grey;
+    font-family: "Dancing Script", cursive;
+  
 }

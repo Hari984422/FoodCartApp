@@ -1,6 +1,7 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import '../Styles/AddProducts.css'
 import axios from 'axios';
+import EditProducts from './EditProducts';
 const AddProduct = () => {
     let [category, setcategory] = useState("")
     let [restaurant, setrestaurant] = useState("")
@@ -10,9 +11,9 @@ const AddProduct = () => {
     let [Quantity, setquantity] = useState("")
     let [Description, setdescription] = useState("")
     let [thumbnailUrl, setthumbnailUrl] = useState("")
-
     let data = {category,name,price,restaurant,Ratings,Description,Quantity,thumbnailUrl}
 
+  
     let addDish = (e) =>{
         e.preventDefault();
         axios.post('http://localhost:1000/Products',data)
@@ -80,5 +81,4 @@ const AddProduct = () => {
         </div>
     );
 }
-
 export default AddProduct;
